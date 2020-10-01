@@ -7,7 +7,6 @@
 
 
 A project to teach beginner Django developers to collaborate with other people in a project.
-
 We are building a simple project: a resume creator.<br/>
 The idea is to create a website where you can enter your information, choose a theme, and have your beautifuly created resume.
 
