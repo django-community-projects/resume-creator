@@ -44,7 +44,7 @@ idna==2.8
 ipykernel==5.3.4
 ipython==7.18.1
 ipython-genutils==0.2.0
-isort==4.3.21
+isort==5.5.4
 itsdangerous==1.1.0
 jedi==0.17.2
 Jinja2==2.10.3
