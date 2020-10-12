@@ -19,6 +19,8 @@ The idea is to create a website where you can enter your information, choose a t
 
 Contributions, issues and feature requests are welcome!<br />To get started take a look at our [contributing guide](https://github.com/django-community-projects/resume-creator/blob/master/CONTRIBUTING.md) to learn how to clone the repo locally and start working.
 
+Finally, feel free to discuss your doubts with us. Join our [Discord Server](https://discord.gg/jssveN) for all discussions around this project.
+
 ## 📝 License
 
 This project is [Apache License 2.0](https://github.com/django-community-projects/resume-creator/blob/master/LICENSE) licensed.
